@@ -41,7 +41,7 @@ public class IntroLab {
      * Make sure you document your method properly!
      */
     public static String sujiahao() {
-        return printLabMessage("Hi", "Jackson", true, "Nice to meet you!");
+        return printLabMessage("Hello", "Jackson", true, "Nice to meet you!");
     }
     /**
      * An example method that calls on printLabMessage.

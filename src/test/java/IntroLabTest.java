@@ -31,7 +31,7 @@ public class IntroLabTest {
      * As a reference, we've included testExampleStudent above.
      */
     public void sujiahao() {
-        String expected = "Hi! My name is Jackson! " + "I like cats more than dogs! Nice to meet you!";
+        String expected = "Hello! My name is Jackson! " + "I like cats more than dogs! Nice to meet you!";
         String actual = IntroLab.exampleStudent();
         assertEquals(expected, actual);
     }
